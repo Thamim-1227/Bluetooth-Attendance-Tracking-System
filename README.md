@@ -23,3 +23,9 @@ The Bluetooth Attendance Tracking App is a mobile application built with Flutter
 * Bluetooth: For proximity detection and device scanning.
 
 * Firebase: For user authentication and real-time database.
+
+## Prototype Images
+
+![1](https://github.com/user-attachments/assets/8404a140-40bd-4bb1-93cf-0358068ed006)
+
+![2](https://github.com/user-attachments/assets/d3949a79-655c-44e0-b4c4-b2884e8d50f1)
